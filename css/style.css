@@ -46,3 +46,28 @@ header{
     width: 200px;
     height: 200px;
 }
+.div_ejer1{
+    width: 100%;
+    margin: 20px auto;
+    background: cadetblue;
+}
+.box{
+    border: 2px solid black;
+    padding: 20px;
+    width: 700px;
+    margin: 15px;
+    display: inline-block;
+    background: rgb(180, 200, 231);
+}
+.div_ejer2{
+    border: 5px dashed white;
+    width: 1000px;
+    height: 1010px;
+    margin: 20px auto;
+    background: rgb(0, 94, 131);
+
+}
+img {
+width: 100%;
+height: auto;
+}
